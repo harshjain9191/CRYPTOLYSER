@@ -13,3 +13,5 @@ Feature of Cryptolyser:
 * Provide a visualization of currency values with a simulated graph.
 * Simulates purchasing and selling out your shares.
 * Help in understand the nature of ever changing E-currencies marketplace.
+
+Main file:- CRYPTOLSER/cryptolyser-project/cryptolyser.py
